@@ -1,3 +1,3 @@
 # INFIX TO POSTFIX OR PREFIX CONVERTER
 
-This program convrts infix expression to postfix or prefix using stack.
+This program converts infix expression to postfix or prefix using stack.
